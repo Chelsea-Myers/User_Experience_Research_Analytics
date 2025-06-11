@@ -1,0 +1,173 @@
+UserID,Group,Age,Gender,TimeSpentMinutes,TaskSuccess,SatisfactionScore,UserComment,Theme
+1,A,48,Male,3.73,1,5.6,"Good layout, got the job done.",Visual Design
+2,A,36,Male,4.89,1,6.8,"Could use more color, but worked fine.",Visual Design
+3,A,48,Other,3.34,0,5.4,"Not super engaging, but clear.",Clarity
+4,A,30,Male,6.01,1,7.2,"A bit plain, but easy to understand.",Clarity
+5,A,21,Male,4.45,1,7.6,,
+6,A,37,Other,6.86,1,7.3,"It didn't grab my attention, but was easy to follow.",Clarity
+7,A,30,Male,5.08,0,7.4,"It didn't grab my attention, but was straightforward to use.",Navigation
+8,A,50,Male,5.18,1,6.6,The solid layout let me complete tasks easily.,Visual Design
+9,A,40,Male,4.2,1,8,The basic style made it easy to follow the steps without issue.,Error Handling
+10,A,55,Female,5.07,1,7.8,"It didn't grab my attention, but was clear in function.",Clarity
+11,A,28,Other,5.91,0,5.4,The basic style made it easy to understand the flow clearly.,Clarity
+12,A,32,Male,5.28,1,7.2,Simple and easy to navigate.,Navigation
+13,A,51,Other,3.92,1,7,The streamlined design allowed me to navigate through the app effortlessly.,Visual Design
+14,A,58,Male,1.87,1,8,The basic style made it easy to grasp the functionality easily.,Engagement
+15,A,55,Male,4.72,1,6.1,"It could benefit from a brighter palette, but it performed reliably.",Clarity
+16,A,41,Other,5.19,1,6.2,The streamlined design allowed me to find what I need with ease.,Visual Design
+17,A,55,Female,5.61,0,4.7,,
+18,A,38,Male,5.11,1,7.3,The streamlined design allowed me to move around the interface smoothly.,Visual Design
+19,A,34,Other,2.39,1,5.2,The streamlined design allowed me to browse without confusion.,Visual Design
+20,A,18,Other,4.55,0,6.1,"It could benefit from a brighter palette, but it functioned well.",Engagement
+21,A,21,Female,4.42,1,7.3,The solid layout helped me finish my work.,Visual Design
+22,A,54,Female,3.63,1,7.3,"It could benefit from a brighter palette, but it did its job.",Clarity
+23,A,43,Other,4.35,1,7.6,The basic style made it easy to figure things out quickly.,Clarity
+24,A,35,Male,3.23,1,6.9,The understated style made it easy to follow the steps without issue.,Error Handling
+25,A,34,Female,4.56,1,6.5,The understated style made it easy to understand the flow clearly.,Clarity
+26,A,29,Male,3.26,0,5.7,"It could benefit from a brighter palette, but it operated smoothly.",Clarity
+27,A,18,Other,4.62,0,7.1,"It didn't grab my attention, but was simple to understand.",Clarity
+29,A,51,Male,6.07,1,6.5,The clean design allowed me to navigate through the app effortlessly.,Visual Design
+30,A,27,Female,4.13,1,5.1,The clean design allowed me to find what I need with ease.,Visual Design
+31,A,45,Female,4.51,1,5.6,"It could benefit from more vibrant hues, but it performed reliably.",Clarity
+32,A,31,Other,2.05,1,7.3,The clean design allowed me to move around the interface smoothly.,Visual Design
+33,A,44,Male,4.71,1,5.8,The clean design allowed me to browse without confusion.,Visual Design
+34,A,59,Female,3.2,1,4.8,The understated style made it easy to grasp the functionality easily.,Engagement
+35,A,54,Male,3.95,1,6.3,"It could benefit from more vibrant hues, but it functioned well.",Engagement
+36,A,33,Male,4.1,1,8.5,The solid layout allowed me to accomplish tasks quickly.,Visual Design
+37,A,55,Other,4.53,1,6.8,The understated style made it easy to figure things out quickly.,Clarity
+38,A,46,Other,4.12,0,7.2,The solid layout enabled me to achieve my goals.,Visual Design
+39,A,49,Other,4.44,1,7.5,"It felt a bit dull, but was easy to follow.",Clarity
+40,A,49,Other,4.69,1,5.4,"It felt a bit dull, but was straightforward to use.",Navigation
+42,A,23,Female,4.27,0,5.9,The minimal design allowed me to navigate through the app effortlessly.,Visual Design
+43,A,39,Female,4.17,1,9.7,The effective layout let me complete tasks easily.,Visual Design
+44,A,46,Other,4.24,0,7.1,"It felt a bit dull, but was clear in function.",Clarity
+45,A,35,Female,8.04,1,6.9,The effective layout helped me finish my work.,Visual Design
+46,A,55,Male,4.82,1,6.4,The minimal design allowed me to find what I need with ease.,Visual Design
+47,A,25,Female,4.77,1,7.6,The simple style made it easy to follow the steps without issue.,Error Handling
+49,A,58,Other,5.4,1,5.3,The effective layout allowed me to accomplish tasks quickly.,Visual Design
+52,A,26,Male,4.55,0,6.8,The minimal design allowed me to move around the interface smoothly.,Visual Design
+53,A,33,Other,3.3,1,8.1,The effective layout enabled me to achieve my goals.,Visual Design
+55,A,57,Other,5.02,1,6.7,The well-structured layout let me complete tasks easily.,Visual Design
+56,A,39,Male,3.88,0,7.7,The simple style made it easy to understand the flow clearly.,Clarity
+57,A,36,Other,5.76,1,5.4,The minimal design allowed me to browse without confusion.,Visual Design
+58,A,27,Male,4.91,1,9.7,The simple style made it easy to grasp the functionality easily.,Engagement
+60,A,52,Male,4.94,1,4.4,The well-structured layout helped me finish my work.,Visual Design
+61,A,54,Other,6.31,1,6.6,The well-structured layout allowed me to accomplish tasks quickly.,Visual Design
+62,A,50,Male,3.82,1,6.5,The straightforward design allowed me to navigate through the app effortlessly.,Visual Design
+63,A,52,Male,4.42,1,4.9,The simple style made it easy to figure things out quickly.,Clarity
+64,A,34,Male,4.03,1,4.4,"It felt a bit dull, but was simple to understand.",Clarity
+65,A,33,Other,5.68,1,7.1,"It could benefit from more vibrant hues, but it did its job.",Clarity
+66,A,40,Other,3.12,1,6.1,The well-structured layout enabled me to achieve my goals.,Visual Design
+67,A,40,Other,5,1,5.7,The straightforward design allowed me to find what I need with ease.,Visual Design
+68,A,22,Other,4.01,1,6.5,The no-frills style made it easy to follow the steps without issue.,Error Handling
+69,A,46,Other,3.11,1,7.9,"It could benefit from more vibrant hues, but it operated smoothly.",Clarity
+70,A,46,Other,3.9,1,8,"It seemed lifeless, but was easy to follow.",Clarity
+72,A,56,Female,5.38,1,4.7,The efficient layout let me complete tasks easily.,Visual Design
+73,A,29,Other,3.76,1,6.6,The straightforward design allowed me to move around the interface smoothly.,Visual Design
+74,A,21,Other,4.67,1,8.8,,
+75,A,48,Male,5.48,0,6.3,The straightforward design allowed me to browse without confusion.,Visual Design
+76,A,22,Female,4.72,1,8.2,The no-frills style made it easy to understand the flow clearly.,Clarity
+77,A,45,Other,3.62,1,5.9,The efficient layout helped me finish my work.,Visual Design
+78,A,18,Male,2.75,1,4.6,The efficient layout allowed me to accomplish tasks quickly.,Visual Design
+79,A,54,Other,2.75,0,6.7,The efficient layout enabled me to achieve my goals.,Visual Design
+81,A,39,Other,3.3,1,5.2,I could navigate through the app effortlessly thanks to the streamlined layout.,Visual Design
+82,A,59,Female,4.09,1,7.5,The no-frills style made it easy to grasp the functionality easily.,Engagement
+83,A,18,Male,4.75,1,4.6,The no-frills style made it easy to figure things out quickly.,Clarity
+85,A,31,Female,3.48,1,5.5,"I found it basic, but could follow the steps without issue.",Error Handling
+87,A,57,Other,4.41,1,7.1,"I found it basic, but could understand the flow clearly.",Clarity
+88,A,43,Male,4.73,1,9.8,I could find what I need with ease thanks to the streamlined layout.,Visual Design
+89,A,30,Female,3.42,1,7.4,I could move around the interface smoothly thanks to the streamlined layout.,Visual Design
+90,A,57,Male,5.05,0,7.3,I could browse without confusion thanks to the streamlined layout.,Visual Design
+91,A,28,Female,4.59,0,6.4,"I found it basic, but could grasp the functionality easily.",Engagement
+92,A,46,Male,4.79,1,6.8,"It seemed lifeless, but was straightforward to use.",Navigation
+93,A,32,Other,6.73,1,7.8,"I found it basic, but could figure things out quickly.",Clarity
+94,A,53,Other,3.26,0,8.1,"It could benefit from bolder colors, but it performed reliably.",Visual Design
+95,A,39,Other,4.9,1,6.3,I could navigate through the app effortlessly thanks to the clean layout.,Visual Design
+96,A,29,Female,4.83,1,6.9,"It seemed lifeless, but was clear in function.",Clarity
+98,A,58,Other,6.34,1,8.7,I could find what I need with ease thanks to the clean layout.,Visual Design
+99,A,53,Other,4.69,0,6.9,"It could benefit from bolder colors, but it functioned well.",Visual Design
+100,A,21,Male,3.93,1,5.7,I could let me complete tasks easily thanks to the solid design.,Visual Design
+101,B,31,Male,4.52,1,7.9,Really liked the design changes.,Visual Design
+102,B,42,Male,5.67,1,8.6,"More dynamic, felt modern.",Clarity
+103,B,25,Male,4.96,1,9.8,Very engaging and intuitive.,Engagement
+105,B,24,Male,6.48,1,9.5,Easier to use than the old version.,Clarity
+106,B,29,Male,5.95,0,7.3,It's more user-friendly compared to the old version.,Clarity
+107,B,50,Female,6.96,1,7.9,Loved the new look!,Clarity
+108,B,33,Male,5.13,1,9.2,The interface was captivating and user-friendly.,Clarity
+110,B,47,Female,3.94,1,5.7,I adored the updated design!,Visual Design
+111,B,32,Female,5.43,1,7.6,I appreciated the design updates.,Visual Design
+112,B,26,Female,6.32,1,9.8,I adored the fresh appearance!,Clarity
+113,B,55,Female,5.41,1,8.5,I appreciated the layout changes.,Visual Design
+114,B,58,Male,3.63,0,8,It felt livelier and up-to-date.,Clarity
+115,B,29,Male,5.75,0,7.2,The interface was captivating and straightforward.,Navigation
+117,B,29,Female,7.08,1,9.2,It felt livelier and contemporary.,Clarity
+118,B,46,Male,5.32,1,6.9,I adored the modern aesthetic!,Clarity
+119,B,31,Female,2.75,0,8.2,It's simpler to navigate compared to the old version.,Navigation
+120,B,36,Female,4.9,1,8.8,It's more straightforward compared to the old version.,Navigation
+121,B,25,Other,6.1,1,8.2,It felt livelier and cutting-edge.,Clarity
+122,B,47,Male,2.38,1,9.6,I appreciated the visual refinements.,Clarity
+123,B,59,Other,5.86,1,8.2,The interface was captivating and natural.,Clarity
+124,B,35,Male,5.51,1,8.6,It felt livelier and state-of-the-art.,Clarity
+125,B,56,Other,4.81,1,7.5,I appreciated the interface revisions.,Clarity
+126,B,54,Male,6.28,1,8.2,I adored the revamped interface!,Clarity
+127,B,24,Other,3.81,1,7,It's better organized compared to the old version.,Clarity
+130,B,28,Female,5.27,1,7,It's far more efficient compared to the old version.,Clarity
+132,B,51,Male,8.48,1,7,It felt more engaging and up-to-date.,Engagement
+133,B,31,Male,5.58,1,6.6,It felt more engaging and contemporary.,Engagement
+134,B,57,Other,5.83,1,8.1,I find it more user-friendly than the previous design.,Visual Design
+135,B,54,Female,6.25,0,8.9,It felt more engaging and cutting-edge.,Engagement
+137,B,57,Female,5.74,1,8.2,I enjoyed the design updates.,Visual Design
+138,B,55,Other,5.68,1,7.2,I find it simpler to navigate than the previous design.,Visual Design
+139,B,42,Female,4.69,0,7.4,It felt more engaging and state-of-the-art.,Engagement
+140,B,45,Other,5.45,1,9.4,I enjoyed the layout changes.,Visual Design
+141,B,39,Other,6.5,1,10,I find it more straightforward than the previous design.,Visual Design
+142,B,25,Male,4.77,1,6.4,It felt interactive and up-to-date.,Engagement
+143,B,46,Male,6.58,0,8.5,The interface was captivating and instinctive.,Clarity
+144,B,26,Male,2.85,1,9,I find it better organized than the previous design.,Visual Design
+145,B,33,Female,7.51,1,8.8,The interface was immersive and user-friendly.,Clarity
+146,B,31,Other,3.55,1,10,I enjoyed the visual refinements.,Clarity
+148,B,43,Other,5.88,1,8.9,I enjoyed the interface revisions.,Clarity
+149,B,40,Male,8.97,0,8.6,I adored the visual overhaul!,Clarity
+152,B,53,Female,5.4,1,9.4,It felt interactive and contemporary.,Engagement
+154,B,21,Female,2.12,1,8.8,The interface was immersive and straightforward.,Navigation
+155,B,34,Other,7.51,1,6.9,It felt interactive and cutting-edge.,Engagement
+156,B,22,Other,7.33,1,8.3,I really liked the updated design!,Visual Design
+158,B,54,Other,5.9,1,5.9,I valued the design updates.,Visual Design
+159,B,59,Female,4.81,0,9.8,I valued the layout changes.,Visual Design
+160,B,54,Other,3.09,1,6.6,I find it far more efficient than the previous design.,Visual Design
+161,B,27,Female,3.32,0,7.9,The interface was immersive and natural.,Clarity
+162,B,42,Female,3.99,1,10,I valued the visual refinements.,Clarity
+163,B,58,Other,6.02,1,6.8,The interface was immersive and instinctive.,Clarity
+164,B,31,Male,6.22,1,9.1,It felt interactive and state-of-the-art.,Engagement
+165,B,47,Male,7.03,1,8.8,The interface was interactive and user-friendly.,Engagement
+166,B,41,Female,4.93,1,8.2,I really liked the fresh appearance!,Clarity
+167,B,39,Male,6.11,1,10,It felt vibrant and up-to-date.,Clarity
+168,B,53,Male,5.08,1,8.8,It felt vibrant and contemporary.,Clarity
+169,B,55,Other,7.21,1,10,I valued the interface revisions.,Clarity
+170,B,38,Female,3.85,1,9.8,"Compared to before, it's more user-friendly.",Clarity
+171,B,47,Female,3.09,1,9.1,I admired the design updates.,Visual Design
+172,B,42,Female,5.85,1,8,"Compared to before, it's simpler to navigate.",Navigation
+173,B,26,Female,4.98,1,7.7,The interface was interactive and straightforward.,Navigation
+174,B,31,Other,6.08,1,7.7,"Compared to before, it's more straightforward.",Navigation
+175,B,58,Male,7.92,1,8.5,The interface was interactive and natural.,Engagement
+176,B,52,Male,5.99,1,8,The interface was interactive and instinctive.,Engagement
+179,B,32,Male,5.58,1,8.3,I really liked the modern aesthetic!,Clarity
+180,B,43,Other,5.38,1,8.8,The interface was compelling and user-friendly.,Clarity
+182,B,53,Female,5.88,1,10,The interface was compelling and straightforward.,Navigation
+183,B,45,Male,5.88,1,9.5,I admired the layout changes.,Visual Design
+184,B,51,Female,6.22,0,8,The interface was compelling and natural.,Clarity
+185,B,28,Female,5.79,1,8.1,I really liked the revamped interface!,Clarity
+186,B,38,Male,6.97,1,7.8,The interface was compelling and instinctive.,Clarity
+187,B,41,Female,2.38,1,7.2,"Compared to before, it's better organized.",Clarity
+188,B,30,Female,6.17,1,9.7,It felt vibrant and cutting-edge.,Clarity
+190,B,59,Male,5.83,1,8.3,"Compared to before, it's far more efficient.",Clarity
+191,B,38,Other,2.99,1,9.6,"I found it captivating, with a very user-friendly design.",Visual Design
+192,B,19,Male,3.71,1,6.5,I really liked the visual overhaul!,Clarity
+193,B,49,Other,6.02,1,8.9,I admired the visual refinements.,Clarity
+194,B,51,Other,6.75,0,9,"I found it captivating, with a very straightforward design.",Visual Design
+195,B,40,Male,7.06,0,8.2,It felt vibrant and state-of-the-art.,Clarity
+196,B,54,Other,6.22,1,8.1,I admired the interface revisions.,Clarity
+197,B,44,Male,4.8,1,7.1,It feels more user-friendly over the old interface.,Clarity
+198,B,28,Female,7.05,1,8.5,It feels simpler to navigate over the old interface.,Navigation
+199,B,57,Female,4.52,1,7.3,"I found it captivating, with a very natural design.",Visual Design
+200,B,37,Female,6.19,0,5.9,"I found it captivating, with a very instinctive design.",Visual Design
